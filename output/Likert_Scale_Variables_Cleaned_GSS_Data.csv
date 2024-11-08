@@ -1,0 +1,57 @@
+"Likert Scale Variables","Binary Variables","Continuous Variables","Multichoice variables","Administration variable","variable","label","labels","Note","Source","missing_count"
+"1","0","0","0","0","INCOM16","R's family income when 16 yrs old","IAP = -1; FAR BELOW AVERAGE = 1; BELOW AVERAGE = 2; AVERAGE = 3; ABOVE AVERAGE = 4; FAR ABOVE AVERAGE = 5; LIVED IN INSTITUTION = 7; DK = 8; NA = 9",NA,NA,3
+"1","0","0","0","0","INCOME","Total family income","IAP = 0; LT $1000 = 1; $1000 TO 2999 = 2; $3000 TO 3999 = 3; $4000 TO 4999 = 4; $5000 TO 5999 = 5; $6000 TO 6999 = 6; $7000 TO 7999 = 7; $8000 TO 9999 = 8; $10000 - 14999 = 9; $15000 - 19999 = 10; $20000 - 24999 = 11; $25000 OR MORE = 12; REFUSED = 13; DK = 98; NA = 99",NA,NA,1
+"1","0","0","0","0","RINCOME","Respondents income","IAP = 0; LT $1000 = 1; $1000 TO 2999 = 2; $3000 TO 3999 = 3; $4000 TO 4999 = 4; $5000 TO 5999 = 5; $6000 TO 6999 = 6; $7000 TO 7999 = 7; $8000 TO 9999 = 8; $10000 - 14999 = 9; $15000 - 19999 = 10; $20000 - 24999 = 11; $25000 OR MORE = 12; REFUSED = 13; DK = 98; NA = 99",NA,NA,2
+"1","0","0","0","0","PARTYID","Political party affiliation","STRONG DEMOCRAT = 0; NOT STR DEMOCRAT = 1; IND,NEAR DEM = 2; INDEPENDENT = 3; IND,NEAR REP = 4; NOT STR REPUBLICAN = 5; STRONG REPUBLICAN = 6; OTHER PARTY = 7; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","POLVIEWS","Think of self as liberal or conservative","IAP = 0; EXTREMELY LIBERAL = 1; LIBERAL = 2; SLIGHTLY LIBERAL = 3; MODERATE = 4; SLGHTLY CONSERVATIVE = 5; CONSERVATIVE = 6; EXTRMLY CONSERVATIVE = 7; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","NATSPAC","Space exploration program","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATENVIR","Improving & protecting environment","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATHEAL","Improving & protecting nations health","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATCITY","Solving problems of big cities","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATCRIME","Halting rising crime rate","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATDRUG","Dealing with drug addiction","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATEDUC","Improving nations education system","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATRACE","Improving the conditions of blacks","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATARMS","Military, armaments, and defense","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATAID","Foreign aid","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","NATFARE","Welfare","IAP = 0; TOO LITTLE = 1; ABOUT RIGHT = 2; TOO MUCH = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","COURTS","Courts dealing with criminals","IAP = 0; TOO HARSH = 1; NOT HARSH ENOUGH = 2; ABOUT RIGHT = 3; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","FUND","How fundamentalist Is R currently","IAP = 0; FUNDAMENTALIST = 1; MODERATE = 2; LIBERAL = 3; DK = 8; NA-EXCLUDED = 9",NA,NA,0
+"1","0","0","0","0","ATTEND","How often R attends religious services","NEVER = 0; LT ONCE A YEAR = 1; ONCE A YEAR = 2; SEVRL TIMES A YR = 3; ONCE A MONTH = 4; 2-3X A MONTH = 5; NRLY EVERY WEEK = 6; EVERY WEEK = 7; MORE THN ONCE WK = 8; DK,NA = 9",NA,NA,0
+"1","0","0","0","0","RELITEN","Strength of affiliation","IAP = 0; STRONG = 1; NOT VERY STRONG = 2; SOMEWHAT STRONG = 3; NO RELIGION = 4; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","FUND16","How fundamentalist was R at age 16","IAP = 0; FUNDAMENTALIST = 1; MODERATE = 2; LIBERAL = 3; DK = 8; NA-EXCLUDED = 9",NA,NA,1
+"1","0","0","0","0","SPFUND","How fundamentalist is spouse currently","IAP = 0; FUNDAMENTALIST = 1; MODERATE = 2; LIBERAL = 3; DK = 8; NA-EXCLUDED = 9",NA,NA,5
+"1","0","0","0","0","HAPPY","General happiness","IAP = 0; VERY HAPPY = 1; PRETTY HAPPY = 2; NOT TOO HAPPY = 3; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","HAPMAR","Happiness of marriage","IAP = 0; VERY HAPPY = 1; PRETTY HAPPY = 2; NOT TOO HAPPY = 3; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","HEALTH","Condition of health","IAP = 0; EXCELLENT = 1; GOOD = 2; FAIR = 3; POOR = 4; DK = 8; NA = 9",NA,NA,3
+"1","0","0","0","0","LIFE","Is life exciting or dull","IAP = 0; EXCITING = 1; ROUTINE = 2; DULL = 3; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","HELPFUL","People helpful or looking out for selves","IAP = 0; HELPFUL = 1; LOOKOUT FOR SELF = 2; DEPENDS = 3; DK = 8; NA = 9","Likert. But 3 should be recoded to be mid",NA,4
+"1","0","0","0","0","FAIR","People fair or try to take advantage","IAP = 0; TAKE ADVANTAGE = 1; FAIR = 2; DEPENDS = 3; DK = 8; NA = 9","Likert. But 3 should be recoded to be mid",NA,4
+"1","0","0","0","0","TRUST","Can people be trusted","IAP = 0; CAN TRUST = 1; Can't be too careful = 2; DEPENDS = 3; DK = 8; NA = 9","Likert. But 3 should be recoded to be mid",NA,4
+"1","0","0","0","0","CONFINAN","Confid in banks & financial institutions","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,4
+"1","0","0","0","0","CONBUS","Confidence in major companies","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONCLERG","Confidence in organized religion","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONEDUC","Confidence in education","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONFED","Confid. in exec branch of fed govt","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONLABOR","Confidence in organized labor","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONPRESS","Confidence in press","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONMEDIC","Confidence in medicine","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONTV","Confidence in television","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONJUDGE","Confid. in united states supreme court","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONSCI","Confidence in scientific community","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONLEGIS","Confidence in congress","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","CONARMY","Confidence in military","IAP = 0; A GREAT DEAL = 1; ONLY SOME = 2; HARDLY ANY = 3; DK = 8; NA = 9",NA,NA,2
+"1","0","0","0","0","AGED","Should aged live with their children","IAP = 0; A GOOD IDEA = 1; A BAD IDEA = 2; DEPENDS = 3; DK = 8; NA = 9","Likert. 3 should be recoded to be mid",NA,5
+"1","0","0","0","0","SATJOB","Work satisfaction","IAP = 0; VERY SATISFIED = 1; MOD. SATISFIED = 2; A LITTLE DISSAT = 3; VERY DISSATISFIED = 4; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","CLASS","Subjective class identification","IAP = 0; LOWER CLASS = 1; WORKING CLASS = 2; MIDDLE CLASS = 3; UPPER CLASS = 4; NO CLASS = 5; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","SATFIN","Satisfaction with financial situation","IAP = 0; SATISFIED = 1; MORE OR LESS = 2; NOT AT ALL SAT = 3; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","FINALTER","Change in financial situation","IAP = 0; BETTER = 1; WORSE = 2; STAYED SAME = 3; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","FINRELA","Opinion of family income","IAP = 0; FAR BELOW AVERAGE = 1; BELOW AVERAGE = 2; AVERAGE = 3; ABOVE AVERAGE = 4; FAR ABOVE AVERAGE = 5; DK = 8; NA = 9",NA,NA,0
+"1","0","0","0","0","DIVLAW","Divorce laws","IAP = 0; EASIER = 1; MORE DIFFICULT = 2; STAY SAME = 3; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","PREMARSX","Sex before marriage","IAP = 0; ALWAYS WRONG = 1; ALMST ALWAYS WRG = 2; SOMETIMES WRONG = 3; NOT WRONG AT ALL = 4; OTHER = 5; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","XMARSEX","Sex with person other than spouse","IAP = 0; ALWAYS WRONG = 1; ALMST ALWAYS WRG = 2; SOMETIMES WRONG = 3; NOT WRONG AT ALL = 4; OTHER = 5; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","HOMOSEX","Homosexual sex relations","IAP = 0; ALWAYS WRONG = 1; ALMST ALWAYS WRG = 2; SOMETIMES WRONG = 3; NOT WRONG AT ALL = 4; OTHER = 5; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","PORNLAW","Feelings about pornography laws","IAP = 0; ILLEGAL TO ALL = 1; ILLEGAL UNDER 18 = 2; LEGAL = 3; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","NEWS","How often Does R read newspaper","IAP = 0; EVERYDAY = 1; FEW TIMES A WEEK = 2; ONCE A WEEK = 3; LESS THAN ONCE WK = 4; NEVER = 5; DK = 8; NA = 9",NA,NA,5
+"1","0","0","0","0","COOP","R's attitude toward interview","IAP = 0; FRIENDLY,INTERESTED = 1; COOPERATIVE = 2; RESTLESS,IMPATIENT = 3; HOSTILE = 4; DK = 8; NA = 9",NA,NA,1
+"1","0","0","0","0","COMPREND","R's understanding of questions","GOOD = 1; FAIR = 2; POOR = 3; DK = 8; NA = 9",NA,NA,0
